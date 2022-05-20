@@ -34,7 +34,8 @@ You will learn how to:
 
 ## Play Sounds
 
-![Simulator Screen Shot - iPhone 8 - 2022-05-11 at 23 31 25](https://user-images.githubusercontent.com/92055081/168145396-f26a3ab7-0534-4a7d-96e0-26e960a9bbcc.png)  ![Simulator Screen Shot - iPhone 8 - 2022-05-11 at 23 32 35](https://user-images.githubusercontent.com/92055081/168145604-a0ee129a-83b6-42a3-8612-3926e2b84631.png)
+![screenshot_3](https://user-images.githubusercontent.com/92055081/169427904-18bb9af9-fb5a-483c-891e-034c1ea503d1.png)
+
 
 
 
