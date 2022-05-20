@@ -27,7 +27,8 @@ You will learn how to:
 ## User Interface
 
 ## Record Sounds 
-![screenshot_1](https://user-images.githubusercontent.com/92055081/169426995-ec1e92c2-82a5-4ac8-a0bd-d392cc5d1d14.png)
+![screenshot_1](https://user-images.githubusercontent.com/92055081/169426995-ec1e92c2-82a5-4ac8-a0bd-d392cc5d1d14.png) ![screenshot_2](https://user-images.githubusercontent.com/92055081/169427755-c00f7024-48f3-48d3-87b6-17b9de747c43.png)
+
 
 
 
