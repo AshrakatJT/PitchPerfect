@@ -27,7 +27,8 @@ You will learn how to:
 ## User Interface
 
 ## Record Sounds 
-![Simulator Screen Shot - iPhone 8 - 2022-05-11 at 23 30 49](https://user-images.githubusercontent.com/92055081/169426890-b8f7fda9-a25c-424c-aea0-6856b23ceebb.png)
+![screenshot_1](https://user-images.githubusercontent.com/92055081/169426995-ec1e92c2-82a5-4ac8-a0bd-d392cc5d1d14.png)
+
 
 
 ## Play Sounds
