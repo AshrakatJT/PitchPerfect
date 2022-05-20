@@ -34,7 +34,8 @@ You will learn how to:
 
 ## Play Sounds
 
-![screenshot_3](https://user-images.githubusercontent.com/92055081/169427904-18bb9af9-fb5a-483c-891e-034c1ea503d1.png)
+![screenshot_3](https://user-images.githubusercontent.com/92055081/169427904-18bb9af9-fb5a-483c-891e-034c1ea503d1.png)  ![screenshot_4](https://user-images.githubusercontent.com/92055081/169427955-682d2e64-9064-41a9-a287-eafce9340078.png)
+
 
 
 
